@@ -1,5 +1,8 @@
+button:hover{
+    opacity: 0.5;
+}
 .button{
-    font-size: 13px;
+    font-size: 0.8125em;
     font-weight: 600;
     border-radius: 15%;
     padding: 1%;

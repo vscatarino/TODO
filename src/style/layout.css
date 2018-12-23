@@ -11,3 +11,11 @@
     margin-left: 13.5416%;
     padding: 2%;
 }
+
+.l-hide{
+    display: none;
+}
+
+.l-pointer{
+    cursor:pointer;
+}
