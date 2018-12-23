@@ -1,0 +1,15 @@
+.task-field{
+    margin: 10% auto;
+    width: 67.5%;
+}
+
+.task-item{
+    margin-top: 1%;
+    background:#FFF;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.task-text{
+   display: inline-block;
+   padding: 1.5%;
+}

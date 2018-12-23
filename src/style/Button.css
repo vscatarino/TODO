@@ -1,0 +1,22 @@
+.button{
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 15%;
+    padding: 1%;
+}
+
+.button-position{
+    display: flex;
+    justify-content: flex-end;
+    padding: 2%;
+}
+
+.button-attention{
+    background: #FA8072;
+    color: #fff;
+}
+
+.button-ok{
+    background: #00BFFF;
+    color: #fff;
+}
